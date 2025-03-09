@@ -113,9 +113,9 @@ function Home() {
                         </div>
 
                         <div className='inputs'>
-                            <div className='name'>Employee_Designation:</div>
+                            <div className='name'>Employee_Role:</div>
                             <div classname='inputs'>
-                                <input type='text' placeholder='Designation :' onChange={e => setEdesign(e.target.value)} required/>
+                                <input type='text' placeholder='Role :' onChange={e => setEdesign(e.target.value)} required/>
                             </div>
                         </div>
                         <div className='inputs'>
