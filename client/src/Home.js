@@ -147,7 +147,7 @@ function Home() {
                             <div></div>
                             <th>Emp_Gender</th>
                             <div></div>
-                            <th>Emp_Designation</th>
+                            <th>Emp_Role</th>
                             <div></div>
                             <th>Emp_Salary</th>
                             <div></div>
